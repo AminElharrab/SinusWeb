@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinusWeb", "SinusWeb\SinusWeb\SinusWeb.csproj", "{0A16508F-5871-4D75-ABFE-97F4B4920834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinusWeb.Client", "SinusWeb\SinusWeb.Client\SinusWeb.Client.csproj", "{F34295DB-D5EA-41E4-A94C-079451D8FB44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A16508F-5871-4D75-ABFE-97F4B4920834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A16508F-5871-4D75-ABFE-97F4B4920834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A16508F-5871-4D75-ABFE-97F4B4920834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A16508F-5871-4D75-ABFE-97F4B4920834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F34295DB-D5EA-41E4-A94C-079451D8FB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34295DB-D5EA-41E4-A94C-079451D8FB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34295DB-D5EA-41E4-A94C-079451D8FB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34295DB-D5EA-41E4-A94C-079451D8FB44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F6853D2-2ECA-4584-A63F-AC70122BBA08}
+	EndGlobalSection
+EndGlobal
